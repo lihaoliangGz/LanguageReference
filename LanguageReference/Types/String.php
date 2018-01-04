@@ -40,5 +40,14 @@ a
     app;e
     ';
 
+$a="1";
+echo "$a";
+echo "\a";
 
+echo <<<EOD
+agadghl
+adgjdg
+asdgasg
+EOD;
+?>
 
